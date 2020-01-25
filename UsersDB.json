@@ -1,0 +1,522 @@
+{
+    "products": [
+        {
+            "id": "AB01",
+            "name": "McCormick, Mermelada, 165 gramos",
+            "price": 29.81,
+            "sold": 10
+        },
+        {
+            "id": "AB02",
+            "name": "Herdez Atún en Aceite, 295 g",
+            "price": 36.82,
+            "sold": 2
+        },
+        {
+            "id": "AB03",
+            "name": "Maggi, Hojas sazonadoras, 4 piezas",
+            "price": 11.36,
+            "sold": 2
+        },
+        {
+            "id": "AB04",
+            "name": "Nescafe, Café soluble, 120 gramos",
+            "price": 59,
+            "sold": 2
+        },
+        {
+            "id": "AB05",
+            "name": "Morama Harina de Almendra, 350 g",
+            "price": 190,
+            "sold": 1
+        },
+        {
+            "id": "AB06",
+            "name": "Boing Boing Jugo sabor Mango de 1 Lt",
+            "price": 13.5,
+            "sold": 0
+        },
+        {
+            "id": "AB07",
+            "name": "Gatorade Gatorade sabor Ponche De Frutas de 1 Lt",
+            "price": 16.3,
+            "sold": 1
+        },
+        {
+            "id": "AB08",
+            "name": "Peñafiel Refresco Sabor Limonada, 600 ml",
+            "price": 10.7,
+            "sold": 1
+        },
+        {
+            "id": "AB09",
+            "name": "Lala Leche UHT Entera con Tapa, 1.5 L, 10 Piezas",
+            "price": 294,
+            "sold": 1
+        },
+        {
+            "id": "AB10",
+            "name": "Bonafont Agua Natural De 1.5Lt",
+            "price": 9.5,
+            "sold": 0
+        },
+        {
+            "id": "L01",
+            "name": "Mastering Bitcoin: Programming the Open Blockchain",
+            "price": 714.33,
+            "sold": 0
+        },
+        {
+            "id": "L02",
+            "name": "Los Secretos De La Mente Millonaria: Cómo dominar el juego interior de la riqueza",
+            "price": 189,
+            "sold": 0
+        },
+        {
+            "id": "L03",
+            "name": "Sidi",
+            "price": 274.9,
+            "sold": 2
+        },
+        {
+            "id": "L04",
+            "name": "Pragmatismo",
+            "price": 236.71,
+            "sold": 0
+        },
+        {
+            "id": "L05",
+            "name": "El cerebro del futuro",
+            "price": 349,
+            "sold": 0
+        },
+        {
+            "id": "L06",
+            "name": "Pelea de gallos",
+            "price": 318,
+            "sold": 0
+        },
+        {
+            "id": "L07",
+            "name": "Permanent Record",
+            "price": 353.5,
+            "sold": 0
+        },
+        {
+            "id": "L08",
+            "name": "Muchas vidas, muchos maestros",
+            "price": 169,
+            "sold": 0
+        },
+        {
+            "id": "L09",
+            "name": "De animales a dioses: Breve historia de la humanidad",
+            "price": 349,
+            "sold": 0
+        },
+        {
+            "id": "L10",
+            "name": "Pedro Páramo",
+            "price": 108,
+            "sold": 0
+        },
+        {
+            "id": "E01",
+            "name": "Dell I3467_i581TBW10s_219 NOTEBOOK_COMPUTER, 14'', Intel core_i5 3.1GHz, 8GB, 1000GB, Windows 10",
+            "price": 13364.78,
+            "sold": 0
+        },
+        {
+            "id": "E02",
+            "name": "BenQ PD2700QT Monitor 27'' LCD, 2560 x 1440, 1 x HDMI, 3 x USB",
+            "price": 9198.8,
+            "sold": 0
+        },
+        {
+            "id": "E03",
+            "name": "Consola Nintendo Switch - Edición Estándar - Importado - Neón Rojo/Azul",
+            "price": 6988,
+            "sold": 0
+        },
+        {
+            "id": "E04",
+            "name": "Epson Impresora multifuncional EcoTank L4150",
+            "price": 3599,
+            "sold": 0
+        },
+        {
+            "id": "E05",
+            "name": "Seagate STEA2000400 Expansion - Disco duro externo portátil USB 3.0 de 2TB",
+            "price": 1431.98,
+            "sold": 1
+        },
+        {
+            "id": "E06",
+            "name": "Koblenz 00-1582-6 Regulador Negro, Oficina, 1400 VA, 600 W",
+            "price": 323,
+            "sold": 0
+        },
+        {
+            "id": "E07",
+            "name": "Logitech Mouse para Gaming G502 Hero, 16000DPI, 11 Botones, color Negro",
+            "price": 798.98,
+            "sold": 0
+        },
+        {
+            "id": "E08",
+            "name": "Nikon Cámara Reflex D5600 conlente AF-P DX Nikkor 18-55mm f/3.5-5.6G VR",
+            "price": 14293.04,
+            "sold": 1
+        },
+        {
+            "id": "E09",
+            "name": "Xiaomi Mi Box S MDZ-22-AB Dispositivo en Tiempo Real",
+            "price": 1322,
+            "sold": 0
+        },
+        {
+            "id": "E10",
+            "name": "GoPro Bundle HERO7 Black + Shorty con Batería Recargable, Cable USB C.7",
+            "price": 7399,
+            "sold": 0
+        },
+        {
+            "id": "HC01",
+            "name": "Redlemon Lámpara de Luna en Impresión 3D Réplica Exacta Recargable",
+            "price": 299,
+            "sold": 0
+        },
+        {
+            "id": "HC02",
+            "name": "Spring Air PRODRYFLOR-IND Protector de Colchón Supreme Comfort, Impermeable, Tamaño Individual",
+            "price": 390,
+            "sold": 0
+        },
+        {
+            "id": "HC03",
+            "name": "Rubbermaid Brilliance Contenedor de almacenamiento de alimentos, 100% a prueba de fugas, plástico, transparente, 4.7C Combo Kit, Salad/Snack Set, 4.7 Cup Combo Kit",
+            "price": 364.31,
+            "sold": 0
+        },
+        {
+            "id": "HC04",
+            "name": "Redlemon Termo de Acero Inoxidable con Aislamiento Térmico para Agua Fría o Caliente, de Doble Pared y Tapa Hermética Antigoteo. Botella de Agua, Café o Té Portátil, de 32 Onzas (940 ml). Azul",
+            "price": 349,
+            "sold": 0
+        },
+        {
+            "id": "HC05",
+            "name": "Koblenz Titanium Aspiradora, 1700 Watts, Golden Editions",
+            "price": 2449,
+            "sold": 0
+        },
+        {
+            "id": "HC06",
+            "name": "Prensa para picar ajo con doble cuchilla",
+            "price": 185,
+            "sold": 0
+        },
+        {
+            "id": "HC07",
+            "name": "Birtman BT-45 - Ventilador de Torre con Ionizador y Control Remoto, Negro, 45''",
+            "price": 1611.36,
+            "sold": 0
+        },
+        {
+            "id": "HC08",
+            "name": "iRobot BRAAVA 380T Robot Trapeador, Color Negro",
+            "price": 5689,
+            "sold": 0
+        },
+        {
+            "id": "HC09",
+            "name": "Daewoo KOR-667DW Horno de Microonda",
+            "price": 959.31,
+            "sold": 0
+        },
+        {
+            "id": "HC10",
+            "name": "Refrigerador Hisense RR63D6WBX 6.3 Pies Control Temperatura Semi Automático-Negro",
+            "price": 6117.01,
+            "sold": 0
+        },
+        {
+            "id": "D01",
+            "name": "Rollerface Set de Protectores y Casco",
+            "price": 886.65,
+            "sold": 0
+        },
+        {
+            "id": "D02",
+            "name": "CENTURFIT Caminadora Eléctrica Plegable Uso Rudo Excelente Calidad Gimnasio 1.5 HP Walk Cardio Pantalla LED con Auxiliar Fitness",
+            "price": 4599,
+            "sold": 0
+        },
+        {
+            "id": "D03",
+            "name": "CAP Barbell Chaleco Ajustable con Peso, 9 kg",
+            "price": 858.01,
+            "sold": 0
+        },
+        {
+            "id": "D04",
+            "name": "Adidas 2018-2019 World Cup Supporters Football (White)",
+            "price": 438,
+            "sold": 1
+        },
+        {
+            "id": "D05",
+            "name": "WILSON NFL MVP Junior Football with Pump and tee, Brown",
+            "price": 298.06,
+            "sold": 0
+        },
+        {
+            "id": "D06",
+            "name": "Battle Guantes Ultra adheribles para Receptor de fútbol Americano",
+            "price": 441.45,
+            "sold": 0
+        },
+        {
+            "id": "D07",
+            "name": "AutoWT Bomba de Aire para Bicicleta pequeña, Bomba de Bicicleta portátil Ligera con válvulas Presta Schrader Bomba de Mano de Alta presión para Bicicletas de montaña MTB BMX",
+            "price": 169.99,
+            "sold": 0
+        },
+        {
+            "id": "D08",
+            "name": "Xiaomi Mi QiCYCLE Electric Bicicleta Plegable",
+            "price": 19999,
+            "sold": 0
+        },
+        {
+            "id": "D09",
+            "name": "Master Lock 8143D Cerradura de cable autobobinado 4 pies x5/16''",
+            "price": 135,
+            "sold": 0
+        },
+        {
+            "id": "D10",
+            "name": "Polar Bottle Kids Insulated Water Bottle",
+            "price": 187.79,
+            "sold": 0
+        }
+    ],
+    "users": [
+        {
+            "email": "ANGEL.DURAN@AMZ.com",
+            "name": "ANGEL DURAN",
+            "password": "ANDU073",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "DIANA.ROBLES@AMZ.com",
+            "name": "DIANA ROBLES",
+            "password": "DIRO055",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "GERARDO.GUIJARRO@AMZ.com",
+            "name": "GERARDO GUIJARRO",
+            "password": "GEGU042",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "ALEJANDRO.HERNANDEZ@AMZ.com",
+            "name": "ALEJANDRO HERNANDEZ",
+            "password": "ALHE068",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "ISAAC.MORA@AMZ.com",
+            "name": "ISAAC MORA",
+            "password": "ISMO031",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "JAVIER.GALLEGOS@AMZ.com",
+            "name": "JAVIER GALLEGOS",
+            "password": "JAGA033",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "JESUS.GARZON@AMZ.com",
+            "name": "JESUS GARZON",
+            "password": "JEGA067",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "SERGIO.LOPEZ@AMZ.com",
+            "name": "SERGIO LOPEZ",
+            "password": "SELO003",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "CRUZ.ESPINOZA@AMZ.com",
+            "name": "CRUZ ESPINOZA",
+            "password": "CRES023",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "LUCERO.MENDEZ@AMZ.com",
+            "name": "LUCERO MENDEZ",
+            "password": "LUME032",
+            "purchase": [
+            ]
+        },
+        {
+            "email": "lapoderosa@udg.com",
+            "name": "Admin",
+            "password": "123",
+            "purchase": [
+                {
+                    "2019/10/28 09:47:38": [
+                        {
+                            "id": "AB01"
+                        }
+                    ]
+                },
+                {
+                    "2019/10/30 07:04:44": [
+                        {
+                            "id": "AB07"
+                        }
+                    ]
+                },
+                {
+                    "2019/10/30 09:31:12": [
+                        {
+                            "id": "AB01"
+                        },
+                        {
+                            "id": "AB02"
+                        }
+                    ]
+                },
+                {
+                    "2019/10/30 10:17:29": [
+                        {
+                            "id": "L03"
+                        },
+                        {
+                            "id": "D04"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/19 18:12:44": [
+                        {
+                            "id": "AB01"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/20 14:53:08": [
+                        {
+                            "id": "AB04"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/25 09:36:02": [
+                        {
+                            "id": "AB04"
+                        },
+                        {
+                            "id": "AB01"
+                        },
+                        {
+                            "id": "AB09"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/25 10:11:36": [
+                        {
+                            "id": "E08"
+                        },
+                        {
+                            "id": "L03"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/25 10:28:13": [
+                        {
+                            "id": "AB02"
+                        },
+                        {
+                            "id": "AB08"
+                        },
+                        {
+                            "id": "E05"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/25 10:39:17": [
+                        {
+                            "id": "AB01"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/25 10:41:35": [
+                        {
+                            "id": "AB01"
+                        },
+                        {
+                            "id": "AB03"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/25 10:44:53": [
+                        {
+                            "id": "AB03"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/27 13:10:18": [
+                        {
+                            "id": "AB01"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/27 13:14:52": [
+                        {
+                            "id": "AB01"
+                        },
+                        {
+                            "id": "AB05"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/27 13:17:52": [
+                        {
+                            "id": "AB01"
+                        }
+                    ]
+                },
+                {
+                    "2019/11/27 13:22:14": [
+                        {
+                            "id": "AB01"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
